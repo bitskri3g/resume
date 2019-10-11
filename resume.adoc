@@ -1,0 +1,22 @@
+= Christopher Apsey
+Christopher Apsey <bitskrieg@bitskrieg.net>
+:toc!:
+
+Seeking technical and executive employment in forward-thinking, risk-embracing organization
+
+== Experience
+
+[stripes=even]
+|===
+
+|*US Army Cyber School* |Fort Gordon, Georgia |_July 2015 to March 2020 (Projected)_
+3+|Stuff
+
+|*B Battery, 1-79 FA*|Fort Sill, Oklahoma|_July 2013 to June 2015_
+3+|More Stuff
+
+|*194th Combat Sustainment Support Battalion*|Camp Humphreys, South Korea|_September 2007 to June 2008_
+3+|Even MOAR
+
+
+|===
