@@ -4,19 +4,80 @@ Christopher Apsey <bitskrieg@bitskrieg.net>
 
 Seeking technical and executive employment in forward-thinking, risk-embracing organization
 
+== Skills
+[stripes=even,cols="^,^,^"]
+|===
+
+|Process reform |DevOPS |Everything-as-Code | Organizational Change
+|Salt |Ceph |OpenStack |git |JunOS |python
+|(power)?shell |*nix |windows
+|Strategic Planning |Process automation
+
+|===
+
 == Experience
 
-[stripes=even]
+[stripes=even,grid=rows,cols="<,^,>"]
 |===
 
 |*US Army Cyber School* |Fort Gordon, Georgia |_July 2015 to March 2020 (Projected)_
-3+|Stuff
+3+|Serving as technical and process reform advisor to Cyber Training and Education Directorate.
+Wrote contract instructor position descriptions and training environment position descriptions,
+served on instructor and technician hiring panels,
+transformed school-wide content creation processes into a code-driven and automated workflow,
+responsible for Cyber School training network form and function,
+and certified as an instructor.
+Oversaw work of military personnel, Department of the Army civilians, and contractors.
 
 |*B Battery, 1-79 FA*|Fort Sill, Oklahoma|_July 2013 to June 2015_
-3+|More Stuff
+3+|Served as Executive Officer responsible for the coordination of transportation, ammunition, ranges/land,
+and food during the execution of Basic Combat Training for up to 240 Soldiers per training cycle.
 
 |*194th Combat Sustainment Support Battalion*|Camp Humphreys, South Korea|_September 2007 to June 2008_
+3+|Junior enlisted Soldier in the Battalion S6 (IT Support).
+
+|===
+
+== Education
+
+[stripes=even,grid=rows,cols="<,^,>"]
+|===
+
+|*United States Military Academy* |West Point, New York |_June 2008 to May 2012_
+3+|Bachelor of Science in Computer Science
+
+|===
+
+== Projects
+
+[stripes=even,grid=rows,cols="<,^,>"]
+|===
+
+|*kinetic* |https://github.com/GeorgiaCyber/kinetic |_January 2016 to Present_
+3+|Stuff
+
+|===
+
+== Awards and Speaking
+
+|===
+
+|*AFCEA 40 under 40* |Baltimore, MD |_2017_
+3+|Stuff
+
+|*AFCEA DC Military IT Award* |Washington, DC |_2017_
+3+|More Stuff
+
+|*DoD CIO Award* |The Pentagon |_2017_
 3+|Even MOAR
 
+|*OpenStack Summit Keynote* |Boston, MA |_2017_
+3+|Stuff
+
+|*OpenStack Summit Breakout Session* |Boston, MA |_2017_
+3+|More Stuff
+
+|*Red Hat Summit Breakout Session* |Boston, MA |_2017_
+3+|Even MOAR
 
 |===
