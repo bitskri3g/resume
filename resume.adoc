@@ -53,31 +53,74 @@ and food during the execution of Basic Combat Training for up to 240 Soldiers pe
 [stripes=even,grid=rows,cols="<,^,>"]
 |===
 
-|*kinetic* |https://github.com/GeorgiaCyber/kinetic |_January 2016 to Present_
-3+|Stuff
+|*kinetic* |https://github.com/GeorgiaCyber/kinetic[GitHub Page] |_January 2016 to Present_
+3+a|This project ended up becoming the official training environment for the United States Army Cyber School.
+It has several notable characteristics:
+
+* Apache 2.0 Licensed
+* No humans required for day-to-day operation
+* Code-driven
+* No proprietary components
+* Leverages software development lifecycle concepts to comply with policy requirements.
+
+This system has 100% of its life-cycle operations completely automated.
+Standing up, tearing down, expanding, and contracting the various modular components of the system can be set to either occur after automated triggers or via a human sending a single command.
+All configurations are designed to be stored in public version control and abide by Kerckhoffs's principle and Shannon’s maxim: a system should be secure even when everything about the system, except shared secrets and private keys, are known.
+This design facilitates 100% end-to-end auditability, easily identifiable misconfigurations and configuration drift, limitless scaling, and a very lean support staff when compared to traditional solutions.
+Furthermore, the mandate that all curriculum be stored in a machine-readable format means that curriculum managers can easily track the state of their curriculum and associated labs by individual line and easily roll back any detrimental changes.
+They can operate with 100% confidence knowing that everyone always has the latest version of all course material.
+
+Beyond the current usage in the Classroom, there are significant opportunities for the system to be used in:
+
+* Vulnerability Research
+* Testing
+* Fuzzing
+* Data Analytics
 
 |===
 
 == Awards and Speaking
 
+[stripes=even,grid=rows,cols="<,^,>"]
 |===
 
-|*AFCEA 40 under 40* |Baltimore, MD |_2017_
-3+|Stuff
+|*AFCEA 40 under 40* |Baltimore, Maryland |_2017_
+3+|Awarded for work on curriculum development automation and work on Cyber School training network
 
-|*AFCEA DC Military IT Award* |Washington, DC |_2017_
-3+|More Stuff
+|*AFCEA DC Military IT Award* |Washington, District of Columbia |_2017_
+3+|Awarded for significantly advancing Cyber School training with innovative, code-driven solution
 
 |*DoD CIO Award* |The Pentagon |_2017_
-3+|Even MOAR
+3+|Honorable mention for work on Cyber School training platform
 
-|*OpenStack Summit Keynote* |Boston, MA |_2017_
-3+|Stuff
+|*OpenStack Summit Keynote* |Boston, Massachusetts |_2017_
+3+|Discussed use of OpenStack and how it helps the Cyber School achieve its goals quickly and efficiently
 
-|*OpenStack Summit Breakout Session* |Boston, MA |_2017_
-3+|More Stuff
+|*OpenStack Summit Breakout Session* |Boston, Massachusetts |_2017_
+3+|More in-depth discussion about the Cyber School use of OpenStack
 
-|*Red Hat Summit Breakout Session* |Boston, MA |_2017_
-3+|Even MOAR
+|*Red Hat Summit Breakout Session* |Boston, Massachusetts |_2017_
+3+|Discussed Cyber in the Context of the Military
 
 |===
+
+== Publications
+
+[stripes=even,grid=rows,cols="<,^,>"]
+|===
+
+|*Courseware as Code* |Frontiers in Education Conference |_October 2018_
+3+|*Abstract:* This Innovative Practice Category Work In Progress presents a case of creating and managing courseware as code.
+By managing all content for five central courses in machine-readable markup language within a GitLab instance, our school achieves rapid synchronized collaboration.
+Through GitLab, we facilitate change discussions, provide transparency in updates, and allow faculty, students, and even our workforce to identify issues and suggest content.
+This enables space for necessary, creative, and even innovative changes by giving all users a voice in the change process and setting a culture of contribution.
+In its first year, Courseware as Code enabled over 250 students in 30 classes to benefit from standardized yet flexible and up-to-date content. For our core cyber technical course, 29 instructors over up to three geographically disparate locations stayed engaged with 5,085 commits and 113 issues raised and discussed.
+To our knowledge, no other similarly sized and divided group of instructors has achieved this level of collaboration towards synchronized courseware.
+
+_Full work available upon request_
+
+|===
+
+== References
+
+_Available upon request_
